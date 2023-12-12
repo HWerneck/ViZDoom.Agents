@@ -2,7 +2,8 @@
 
 Repository with implemented ViZDoom agents for my Master's research. The final version of my dissertation is attached here.
 
-Each repository corresponds to one of the experiments run for my project.
+The 'Basic test' repository installs and runs ViZDoom with a simple random agent, just to verify everything is working correctly.
+Each of the other repositories corresponds to one of the experiments run for my project.
 
 The agents were based on Kieliger's tutorials (  
 - https://lkieliger.medium.com/deep-reinforcement-learning-in-practice-by-playing-doom-part-1-getting-started-618c99075c77  
